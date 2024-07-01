@@ -1,5 +1,6 @@
 import "./App.css";
 import About from "./components/About";
+import Certificate from "./components/Certificate";
 import Contact from "./components/Contact";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -21,6 +22,7 @@ function App() {
 
           <About></About>
           <Tech></Tech>
+          <Certificate/>
           <Project></Project>
           <Contact></Contact>
         </div>

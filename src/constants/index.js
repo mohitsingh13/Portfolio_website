@@ -6,6 +6,31 @@ export const HERO_CONTENT = `As a highly skilled and motivated Frontend React De
 
 export const ABOUT_TEXT = `As a web developer, my objective is to create user-friendly and efficient websites that are visually appealing and easy to navigate. I utilize my skills in HTML, CSS, JavaScript, and ReactJS to develop websites that meet all the requirements of the client `;
 
+export const Education ='';
+
+export const CERTIFICATES = [
+  {
+    year: "January 2nd 2023",
+    course: "HTML Web Development Course",
+    company: "Infosys Springboard",
+    description: `In this course, I learn the essentials of HTML, including tags, elements, and attributes used to structure and format web content. Through practical exercises, I gain hands-on experience in creating and editing web pages, laying a solid foundation for building websites effectively`,
+    
+  },
+  {
+    year: "March 3rd 2023",
+    course: "The Complete Web Developer Course 2.0",
+    company: "Infosys Springboard",
+    description: `Master web development by learning HTML for structure, CSS for styling, and JavaScript for interactivity. Gain practical experience through hands-on projects and questions.`,
+    
+  },
+  {
+    year: "July 1st 2024",
+    course: "React Js and Redux Certification",
+    company: "KG-Coding",
+    description: `In this course, I learn the fundamentals of React, focusing on components, props, state management, hooks, and lifecycle methods. Additionally, I delve into Redux for centralized state management, using actions, reducers, and the store. Through hands-on projects, I gain practical experience in building dynamic and scalable web applications with React and Redux`,
+    
+  },];
+
 export const PROJECTS = [
   {
     title: "E-Commerce Website",
