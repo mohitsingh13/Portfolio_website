@@ -1,6 +1,7 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project-5.png";
 
 export const HERO_CONTENT = `As a highly skilled and motivated Frontend React Developer, I specialize in building dynamic and responsive web applications using React.js. My expertise lies in translating design mockups into high-quality code and delivering seamless user experiences. I have a strong foundation in HTML, CSS, and JavaScript, with a deep understanding of modern front-end development practices and tools`;
 
@@ -72,6 +73,13 @@ export const PROJECTS = [
     description:
       "A to-do list app with multiple list options allows you to store all of these to-dos in one place. ",
     technologies: ["HTML", "CSS", "javascript" , "React.js", "Bootstrap"]
+  },
+  {
+    title: "Tic Tac Toe",
+    image: project5,
+    description:
+      "It is a tic tac toe gaming using HTML, CSS, JavaScript. IT also give Congratulation message after winning",
+    technologies: ["HTML", "CSS", "JavaScript"],
   },
 ];
 
