@@ -2,6 +2,7 @@ import React from "react";
 import about from "../assets/developer.jpg";
 import { ABOUT_TEXT } from "../constants";
 import { motion } from "framer-motion";
+
 const Container1 = (delay) => ({
   hidden: { x: -400, opacity: 0 },
   visible: {
@@ -43,6 +44,8 @@ const About = () => {
             <p className="my-2 max-w-xl py-6">{ABOUT_TEXT}</p>
           </div>
         </motion.div>
+        <div>
+        </div>
       </div>
     </div>
   );

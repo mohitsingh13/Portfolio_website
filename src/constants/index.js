@@ -6,7 +6,26 @@ export const HERO_CONTENT = `As a highly skilled and motivated Frontend React De
 
 export const ABOUT_TEXT = `As a web developer, my objective is to create user-friendly and efficient websites that are visually appealing and easy to navigate. I utilize my skills in HTML, CSS, JavaScript, and ReactJS to develop websites that meet all the requirements of the client `;
 
-export const Education ='';
+export const EDUCATION =[
+  {
+  School:"Till 10th",
+  Name:"DAV PUBLIC SCHOOL",
+  Year:"2018",
+  Location:"KOTA, RAJASTHAN"
+  },
+  {
+    School:"Till 12th",
+    Name:"M.B. Public sr. sec. school ",
+    Year:"2021",
+    Location:"KOTA, RAJASTHAN"
+  },
+  {
+      School:"Btech(CSE)",
+      Name:"DAV PUBLIC SCHOOL",
+      Year:"2021-2025",
+      Location:"KOTA, RAJASTHAN"
+  },
+];
 
 export const CERTIFICATES = [
   {

@@ -2,6 +2,7 @@ import "./App.css";
 import About from "./components/About";
 import Certificate from "./components/Certificate";
 import Contact from "./components/Contact";
+import Education from "./components/Education";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Project from "./components/Project";
@@ -21,6 +22,7 @@ function App() {
           <Hero></Hero>
 
           <About></About>
+          <Education/>
           <Tech></Tech>
           <Certificate/>
           <Project></Project>

@@ -40,7 +40,7 @@ const Certificate = () => {
               <h6 className="mb-2 font-semibold">
                 {certificate.course} -{" "}
                 <span className="text-sm text-purple-100">
-                  {certificate.company}
+                  {certificate.School}
                 </span>
               </h6>
               <p className="mb-4 text-neutral-400">{certificate.description}</p>
