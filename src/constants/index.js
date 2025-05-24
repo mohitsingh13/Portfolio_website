@@ -22,9 +22,9 @@ export const EDUCATION =[
   },
   {
       School:"Btech(CSE)",
-      Name:"DAV PUBLIC SCHOOL",
+      Name:"Galgotias University",
       Year:"2021-2025",
-      Location:"KOTA, RAJASTHAN"
+      Location:"Greater noida, Uttar Pradesh"
   },
 ];
 
