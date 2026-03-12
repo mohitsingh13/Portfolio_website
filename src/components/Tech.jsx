@@ -45,7 +45,7 @@ const Tech = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <RiNodejsLine className="text-7xl text-green-400" />
+           <RiReactjsFill className="text-7xl text-blue-400" />
         </motion.div>
         <motion.div
           variants={IconVariant(3)}
@@ -53,7 +53,7 @@ const Tech = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiMongodb className="text-7xl text-green-800" />
+          <RiTailwindCssFill className="text-7xl text-cyan-500" />
         </motion.div>
         <motion.div
           variants={IconVariant(3.5)}
@@ -61,7 +61,7 @@ const Tech = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiExpress className="text-7xl text-yellow-400" />
+          <TbBrandFramerMotion className="text-7xl text-pink-500" />
         </motion.div>
         <motion.div
           variants={IconVariant(4)}
@@ -69,7 +69,7 @@ const Tech = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <RiReactjsFill className="text-7xl text-blue-400" />
+          <TbBrandRedux className="text-7xl text-purple-500" />
         </motion.div>
       </div>
     </div>
