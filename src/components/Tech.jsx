@@ -1,9 +1,9 @@
 import React from "react";
-import { RiReactjsFill } from "react-icons/ri";
-import { RiNodejsLine } from "react-icons/ri";
-import { SiMongodb } from "react-icons/si";
-import { SiExpress } from "react-icons/si";
 import { AiOutlineJavaScript } from "react-icons/ai";
+import { RiReactjsFill } from "react-icons/ri";
+import { RiTailwindCssFill } from "react-icons/ri";
+import { TbBrandFramerMotion } from "react-icons/tb";
+import { SiRedux } from "react-icons/si";
 import { motion } from "framer-motion";
 
 const IconVariant = (duration) => ({
@@ -69,7 +69,7 @@ const Tech = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <TbBrandRedux className="text-7xl text-purple-500" />
+          <SiRedux className="text-7xl text-purple-500" />
         </motion.div>
       </div>
     </div>
